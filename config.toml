@@ -27,7 +27,9 @@ googleAnalytics = "UA-85746076-1"
   
   # Personal settings
   name = "Mike Anderson"
-  #position = ""
+  title = "Chief Technology Officer"
+  company_name = "Echosec Systems"
+  company_url = "https://echosec.net"
   
   # Extra stuff
   # NOTE: There is little different extra stuff in original Identity theme by HTML5 UP.

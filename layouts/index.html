@@ -49,7 +49,7 @@
             <header>
               <span class="avatar"><img src="{{ .Site.BaseURL }}/images/avatars/{{ .Site.Params.avatar  }}" alt="" /></span>
               <h1>{{ .Site.Params.name  }}</h1>
-              <p>Cheif Technology Officer at <a href="https://echosec.net">Echosec Systems</a></p>
+              <p>{{ .Site.Params.title }} at <a href="{{ .Site.Params.company_url }}">{{ .Site.Params.company_name}}</a></p>
             </header>
                       {{ if .Site.Params.contact.enable }}
                     {{ partial "contact.html" . }}
