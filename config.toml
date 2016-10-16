@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://andersonapps.ca" #without ending slash
+baseurl = "https://mike-anderson.github.io/" #without ending slash
 languageCode = "en-us"
 theme = "hugo-identity-theme"
 title = "Mike Anderson"
