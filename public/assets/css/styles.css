@@ -1,0 +1,16 @@
+.avatar img {
+  width: 128px;
+  height: 128px;
+}
+
+a:hover {
+  color: #2aa198;
+}
+
+ul.icons li a:hover:before {
+    text-shadow: 1.25px 0px 0px #2aa198, -1.25px 0px 0px #2aa198, 0px 1.25px 0px #2aa198, 0px -1.25px 0px #2aa198;
+}
+
+ul.icons li a:hover {
+    border-color: #2aa198;
+}
