@@ -73,6 +73,11 @@ googleAnalytics = "UA-85746076-1"
     title = "Github"
     icon = "fa-github"
     link = "https://github.com/mike-anderson"
+
+  [[params.social]]
+    title = "Linkedin"
+    icon = "fa-linkedin"
+    link = "https://www.linkedin.com/in/mike-anderson-yyj/"
   
   # Footer settings
   [params.footer]
